@@ -2,10 +2,12 @@ pipeline{
 	agent any
 	stages{
 		stage('Build'){
-			options{
-			skipDefaultCheckout()
+			steps{
+				options{
+				skipDefaultCheckout()
 	}
 		echo "Hii Vikram"		
+}
 }
 }
 
