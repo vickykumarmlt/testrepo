@@ -10,7 +10,7 @@ pipeline{
 			skipDefaultCheckout()
 	}*/
 	steps{		
-		echo "Hii Vikram"		
+		echo "Hii it's Newbranch"		
 }
 }
 }
