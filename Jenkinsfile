@@ -14,7 +14,7 @@ pipeline{
         branch 'dev'
       }
       steps{
-        echo "DEV BRANCH"
+        echo "Building DEv Branching"
       }
     }
   }
